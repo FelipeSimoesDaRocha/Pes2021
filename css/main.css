@@ -8,7 +8,7 @@ html {
 }
 
 body {
-    background-image: linear-gradient(#b6ccda, rgb(79, 79, 167));
+    background-image: linear-gradient(Black, rgb(10, 1, 0));
 }
 
 
@@ -38,6 +38,7 @@ main {
     display: flex;
     background: black;
     padding-bottom: 0.5rem;
+    transition: inherit;
 }
 
 .responsive-video {
@@ -52,7 +53,6 @@ main {
     display: flex;
     justify-content: center;
     width: 100;
-    /* height: 325px; */
     padding: 5rem 0;
     overflow-y: auto;
     background-image: linear-gradient( #000000, #8b0000, #407da2)
