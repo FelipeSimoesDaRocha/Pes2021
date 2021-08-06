@@ -1,50 +1,54 @@
 * {
-    padding: 0px;
     margin: 0px;
-}
-
-#primeiro {
-    height: 50px;
-    width: 50px;
+    border: 0vh;
+    font-size: 0vh;
 }
 
 body {
     width: 100%;
     height: 100%;
-    background-color: teal;
+    border: 100%;
+    background-image: linear-gradient(#b6ccda, rgb(79, 79, 167));
 }
 
-.menu-principal {
+
+/* //////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+.MenuContatos {
     display: flex;
-    justify-content: center;
-    width: 100%;
+    width: 98vw;
     height: 100px;
-    background-color:  wheat
+    margin: 0px;
+    background-color: gray;
 }
 
-.redes-sociais ul li {
-    margin-left: 15px;
-    display: inline-block;
-    list-style: none;
-}
-
-.redes-sociais {
-    display: flex;
-    justify-content: center;
+.contatos {
+    height: 0px;
+    width: 270px;
     margin-left: auto;
-    width: 420px;
-    height: 100px;
+    margin-right: 40px;
 }
+
+
+
+
 /* ////////////////////////////////////////////////////////////////////////////////////////////////// */
+
 .final {
     display: flex;
     justify-content: center;
     width: 100;
     height: 325px;
-    background-color:chartreuse
+    overflow-y: auto;
+    background-image: linear-gradient( #000000, #8b0000, #407da2)
 }
+
 .video ul li {
     margin-left: 0vw;
     display: inline-block;
     list-style: none;
+}
+
+.final {
+    display: flex;
 }
