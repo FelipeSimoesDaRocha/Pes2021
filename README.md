@@ -1,4 +1,4 @@
-# <h3> My first project </h3><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+<div> # <h3> My first project </h3><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> </div>
 
 <br />
 
